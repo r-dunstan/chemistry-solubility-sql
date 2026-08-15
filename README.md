@@ -1,4 +1,4 @@
-Predicting aqueous solubility from different molecular structures
+## Predicting aqueous solubility from different molecular structures
 Analysis of the ESOL dataset using SQL + python
 
 ## Question
